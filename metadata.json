@@ -1,0 +1,6 @@
+{
+  "name": "Next Topper AI",
+  "description": "AI personal tutor that helps students understand subjects, complete practice, prepare for exams, and track their learning progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
